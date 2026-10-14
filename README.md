@@ -24,7 +24,7 @@ Located in the `/backend` directory, the backend serves as the core logic engine
   - **Routes**: Maps API endpoints to specific controllers.
   - **Middleware**: Handles authentication checks and role-based access control.
 
-### 2. Role-Based Access Control (RBAC) Logic
+### 2. Role-Based Access Control (RBAC) Logic.
 The system implements a dual-layer access control mechanism to ensure security and data privacy.
 
 - **Admin Access**: Users with the `admin` role have full access to the AdminJS dashboard, allowing them to manage users, update site settings, and perform CRUD operations on products and categories.
