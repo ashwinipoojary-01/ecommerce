@@ -5,7 +5,7 @@ This is a full-stack e-commerce application built with a modern tech stack. It f
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture.
 
 The project follows a **decoupled architecture**, separating the frontend and backend to ensure scalability and maintainability.
 
