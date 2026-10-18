@@ -1,6 +1,6 @@
 # E-Commerce Platform - System Structure and Logic.
 
-## 🚀 Overview
+## 🚀 Overview.
 This is a full-stack e-commerce application built with a modern tech stack. It features a robust backend for managing products, orders, and users, coupled with a responsive React frontend. The system also includes a powerful admin dashboard for store management.
 
 ---
